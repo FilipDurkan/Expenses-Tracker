@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FilipDurkan/Expenses-Tracker/static/css/main.0d860dd8.css",
+    "main.js": "/FilipDurkan/Expenses-Tracker/static/js/main.fe8fa1e8.js",
+    "index.html": "/FilipDurkan/Expenses-Tracker/index.html",
+    "main.0d860dd8.css.map": "/FilipDurkan/Expenses-Tracker/static/css/main.0d860dd8.css.map",
+    "main.fe8fa1e8.js.map": "/FilipDurkan/Expenses-Tracker/static/js/main.fe8fa1e8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d860dd8.css",
+    "static/js/main.fe8fa1e8.js"
+  ]
+}
